@@ -10,4 +10,4 @@ tion with a special purpose: to load modules. */
 hello = function () {
   return "Hello World";
 };
-console.log(hello);
+console.log(hello());
